@@ -85,7 +85,7 @@
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=shubh-kr007&theme=dark&hide_border=false" alt="GitHub Streak"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-kr007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-kr007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c&v=1" alt="Top Languages"/>
 </p>
 
 ### ✍️ Random Dev Quote
